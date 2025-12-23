@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Adventure",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T12:04:41.946415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living A Boy's Adventure Tale",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/01_Living_A_Boy's_Adventure_Tale_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "05 - Living A Boy's Adventure Tale",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/02_05_-_Living_A_Boy's_Adventure_Tale_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brilliant Adventure",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Brilliant_Adventure_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Action / Adventure",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/04_Action___Adventure_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Action\u0000Adventure",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/05_Action\u0000Adventure_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adventure",
+      "artist": "Be Your Own Pet",
+      "has_synced": true,
+      "path": "select/06_Adventure_Be_Your_Own_Pet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nott - Paul Chambers Adventure Remix",
+      "artist": "Boys Noize",
+      "has_synced": false,
+      "path": "select/07_Nott_-_Paul_Chambers_Adventure_Remix_Boys_Noize.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Camp Adventure",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/08_Camp_Adventure_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Camp Adventure (Full Band Version)",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/09_Camp_Adventure_(Full_Band_Version)_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Camp Adventure - Tokyo, JP",
+      "artist": "Delta Sleep",
+      "has_synced": false,
+      "path": "select/10_Camp_Adventure_-_Tokyo,_JP_Delta_Sleep.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Camp Adventure (Tokyo) 🇯🇵",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/11_Camp_Adventure_(Tokyo)_🇯🇵_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Living a Boy's Adventure Tale",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/12_Living_a_Boy's_Adventure_Tale_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Living a Boy's Adventure Tale - Naersnes Demo",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/13_Living_a_Boy's_Adventure_Tale_-_Naersnes_Demo_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Living a Boy's Adventure Tale (Nærsnes demo)",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/14_Living_a_Boy's_Adventure_Tale_(Nærsnes_demo)_a‐ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Living a Boy's Adventure Tale - Early Mix; 2015 Remaster",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/15_Living_a_Boy's_Adventure_Tale_-_Early_Mix;_2015_Remaster_A-ha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Adventure",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Adventure_YOASOBI.txt"
+    }
+  ]
+}
